@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "339112788392",
+    "firebase_url": "https://megusteainventory.firebaseio.com",
+    "project_id": "megusteainventory",
+    "storage_bucket": "megusteainventory.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339112788392:android:3b88a534fe29fb77eb9d9d",
+        "android_client_info": {
+          "package_name": "com.megustea.sys"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339112788392-2qo95k94t3obr5qo2njl3cutc86qmf08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0iXtGa73I72VKL_GkljAuUI0r31Ymt_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339112788392-2qo95k94t3obr5qo2njl3cutc86qmf08.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
